@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab486fe7-889b-4fc0-a24e-46dffc527bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tests/TriangleCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputSpacePartitionExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InputSpacePartitionExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/TriangleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/TriangleCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2fxXTOc3fNXAj16Dcm2U4IhdsJi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,11 +62,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714743713496</updated>
-      <workItem from="1714743714511" duration="585000" />
+      <workItem from="1714743714511" duration="5218000" />
     </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="create classes and Test Classes.">
+      <option name="closed" value="true" />
+      <created>1714744505281</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1714744505281</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۲" summary="update Readme">
+      <option name="closed" value="true" />
+      <created>1714744648424</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1714744648424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create classes and Test Classes." />
+    <MESSAGE value="update Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Readme" />
   </component>
 </project>
