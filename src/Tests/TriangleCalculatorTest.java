@@ -41,8 +41,6 @@ public class TriangleCalculatorTest {
         boolean canBeTriangle = (side3 < side1+side2) && (side2 < side1+side3) && (side1 < side2+side3);
         if(!canBeTriangle){
             Assertions.assertThrows(IllegalArgumentException.class,() -> calculator.calculateTriangleArea(side1,side2,side3));
-        }else{
-            Assertions.assertTrue(true);
         }
     }
 
@@ -63,8 +61,6 @@ public class TriangleCalculatorTest {
             double s = (side1 + side2 + side3) / 2;
             double computedArea = Math.sqrt(s * (s - side1) * (s - side2) * (s - side3));
             Assertions.assertEquals(computedArea,calculator.calculateTriangleArea(side1,side2,side3));
-        }else{
-            Assertions.assertTrue(false);
         }
     }
 
